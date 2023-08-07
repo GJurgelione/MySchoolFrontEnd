@@ -1,5 +1,6 @@
 # MySchool
 Project: MySchool
+
 Description
 My School project is aimed at providing the public with comprehensive information about schools in Lithuania. The platform allows users to access school ratings, share their experiences, write comments and leave feedback on their interactions with various educational institutions. 
 The project currently offers an overview of state-funded schools in Lithuania, displaying their respective ratings and allowing to sort the displayed information based on school types.
